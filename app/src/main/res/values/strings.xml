@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WristChrono</string>
+
+    <!-- Concise 1-2 word watch headers & status labels -->
+    <string name="header_timer">TIMER</string>
+    <string name="header_stopwatch">STOPWATCH</string>
+    <string name="status_running">RUN</string>
+    <string name="status_paused">PAUSED</string>
+    <string name="status_done">DONE</string>
+    <string name="status_ready">READY</string>
+
+    <!-- Compact watch actions -->
+    <string name="action_custom_timer">+ Custom</string>
+    <string name="action_clear_laps">Clear</string>
+    <string name="label_lap_number">L%1$d</string>
+    <string name="label_nudge_plus">+%1$ds</string>
+    <string name="label_nudge_minus">%1$ds</string>
+    <string name="label_minutes">MIN</string>
+    <string name="label_seconds">SEC</string>
+    <string name="cd_confirm_duration">Start custom timer</string>
+
+    <!-- Accessibility content descriptions -->
+    <string name="cd_start_timer">Start timer</string>
+    <string name="cd_pause_timer">Pause timer</string>
+    <string name="cd_resume_timer">Resume timer</string>
+    <string name="cd_reset_timer">Reset timer</string>
+    <string name="cd_restart_timer">Restart timer</string>
+    <string name="cd_dismiss_timer">Dismiss timer</string>
+    <string name="cd_delete_preset">Delete preset %1$s</string>
+    <string name="cd_custom_timer">Set custom timer</string>
+    <string name="cd_start_stopwatch">Start stopwatch</string>
+    <string name="cd_stop_stopwatch">Stop stopwatch</string>
+    <string name="cd_lap_stopwatch">Record lap</string>
+    <string name="cd_reset_stopwatch">Reset stopwatch</string>
+</resources>

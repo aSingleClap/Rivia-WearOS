@@ -1,0 +1,8 @@
+{
+  "name": "Rivia WearOS",
+  "description": "Standalone Wear OS quick timer and stopwatch built with Wear Compose for round displays, bezel scrolling, and 32-bit Galaxy Watch 5 compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
